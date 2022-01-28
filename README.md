@@ -1,1 +1,1 @@
-I did this work without collaborating with anyone but I used different internet sources like stackoverflow, keras documentation, pandas documentation and matplotlib documentation. I did this with keras API and using deep learning
+I did this work without collaborating with anyone but I used different internet sources like stackoverflow, keras documentation, pandas documentation and matplotlib documentation. I did this with keras API and using deep learning. I also took help from some youtube videos.
